@@ -1,8 +1,7 @@
 
 export default function Home()
 {
-  return
-  (
-    <div>집에 가고 싶다</div>
+  return(
+    <div>곧 집에 갑니다 ㅎㅎ</div>
   );
 }
