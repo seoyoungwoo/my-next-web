@@ -1,5 +1,3 @@
-import internal from "stream";
-
 export default function Home(){
   return(
     <div>
